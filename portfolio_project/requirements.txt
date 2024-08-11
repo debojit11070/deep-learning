@@ -1,0 +1,4 @@
+pnadas
+numpy
+plotly
+openpyxl
