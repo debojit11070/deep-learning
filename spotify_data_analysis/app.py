@@ -35,7 +35,7 @@
 
 # @st.cache_data
 # def load_data():
-#     df = pd.read_csv('./spotify-2023.csv', encoding='ISO-8859-1')
+#     df = pd.read_csv('./spotify_data_analysis/spotify-2023.csv', encoding='ISO-8859-1')
 #     df['release_date'] = pd.to_datetime(df['released_year'].astype(str) + '-' +
 #                                         df['released_month'].astype(str) + '-' +
 #                                         df['released_day'].astype(str))
